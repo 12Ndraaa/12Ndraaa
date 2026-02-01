@@ -1,10 +1,25 @@
-<!--<p align="center">
-  <img src="">
-</p>-->
-<center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Open+Sans&duration=1000&pause=500&center=true&width=435&lines=hi+I'm+Fairuz;full+stack+enthusiast;open+source+lovers" alt="Typing SVG" /></a></center>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ZyuuDev&theme=onedark&row=1&column=7" alt="Trophy" />
+  <img src="https://i.ibb.co.com/jKCfNJ1/AIEnhancer-Chat-GPT-Image-1-Feb-2026-22-1-1.png">
 </p>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=500&size=36&duration=4000&pause=1000&color=56F7F5&center=true&vCenter=true&random=false&width=435&lines=Halo+Guys;" />
+</h1>
+
+<h3 align="center">Saya seseorang yang sedang belajar dan sangat menyukai di bagian Fullstack Web Dev & Junior Cyber Security. Yang suka dengan pengetahuan dan hal hal baru teknologi didunia ini.</h3>
+
+<br/>
+
+<div align="center">
+ 
+Seorang siswa SMK N 1 Bantul mengambil jurusan Rekayasa Perangkat Lunak. 
+Saya memiliki minat yang besar terhadap pengembangan web, khususnya sebagai full-stack web developer. 
+Saya menyukai tantangan dalam membangun aplikasi dari awal hingga akhir, baik dari sisi front-end yang berfokus pada tampilan dan interaksi pengguna, 
+maupun dari sisi back-end yang mengelola logika server dan database.
+
+ 🧐 Fun fact **Saya menyukai mie ayam 😋😋**
+
+ </div>
 
 # — tech stack
 <div align="center">
@@ -32,6 +47,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![Laravel](https://img.shields.io/badge/Laravel-005571?style=flat-square&logo=laravel)
 </div>
 
 ### — tools - platform 
@@ -59,14 +75,10 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ZyuuDev&label=Profile%20views&color=0e75b6&style=flat" alt="" />
 </p>
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZyuuDev&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZyuuDev&layout=compact&theme=radical" />
-</div>
 
 ## connect with me
 <p align="center">
-  <a href="https://instagram.com/nndaaaaxy_>
+  <a href="https://instagram.com/nndaaaaxy_">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white" />
   </a>
 </p>
