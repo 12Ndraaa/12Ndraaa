@@ -43,7 +43,12 @@ ___
 
 <br clear="both">
 
-![Snake animation](https://raw.githubusercontent.com/12Ndraaa/12Ndraaa/output/snake.svg)
+<!-- Light Mode -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/12Ndraaa/12Ndraaa/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/12Ndraaa/12Ndraaa/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/12Ndraaa/12Ndraaa/output/github-snake.svg" />
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/12Ndraaa/12Ndraaa/output/pacman-contribution-graph-dark.svg">
