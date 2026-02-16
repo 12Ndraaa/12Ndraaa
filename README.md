@@ -43,7 +43,7 @@ ___
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/12Ndraaa/12Ndraaa/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/12Ndraaa/12Ndraaa/output/snake.svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/12Ndraaa/12Ndraaa/output/pacman-contribution-graph-dark.svg">
