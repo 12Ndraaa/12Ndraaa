@@ -2,20 +2,20 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # Otomatis setiap 6 jam
-  workflow_dispatch:          # Bisa dijalankan manual
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write   # WAJIB ada ini
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-
     steps:
-      # 1. Checkout repo
-      - name: Checkout Repository
+      - name: Checkout
         uses: actions/checkout@v4
 
-      # 2. Generate SVG (light + dark mode)
       - name: Generate Snake SVG
         uses: Platane/snk/svg-only@v3
         with:
@@ -24,13 +24,11 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      # 3. Push ke branch "output"
-      - name: Deploy to Output Branch
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
-          commit_message: "🐍 Auto-update snake animation [skip ci]"
           jekyll: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
