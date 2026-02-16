@@ -41,8 +41,9 @@ ___
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/axlendraa/)
 
 
-#### Axl's Stats
-![Axl's GitHub stats](https://github-readme-stats-git-masterorg.vercel.app/api?username=12Ndraaa&hide=stars,prs,issues,contribs&show_icons=true&theme=dark)
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/12Ndraaa/12Ndraaa/output/snake.svg" alt="Snake animation" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/12Ndraaa/12Ndraaa/output/pacman-contribution-graph-dark.svg">
